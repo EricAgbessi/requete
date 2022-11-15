@@ -1,0 +1,1 @@
+export const api="https://dummy0api.herokuapp.com/api"

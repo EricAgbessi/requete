@@ -5,7 +5,7 @@ import {IoMdNotificationsOutline} from 'react-icons/io'
 
 const HomeHeader = () => {
     return (
-        <HStack justifyContent="space-between" w="100%" boxShadow="0px 2px 9px 0px rgba(0,0,0,0.75);" padding="10px" bgColor="white"> 
+        <HStack justifyContent="space-between" w="100%" boxShadow="0px 2px 9px 0px  RGB(203, 205, 208);" padding="10px" bgColor="white"> 
 
             <Image
                 w="100px"
@@ -15,7 +15,7 @@ const HomeHeader = () => {
             />
 
             <HStack w="15%" justifyContent="space-between">
-                <IoMdNotificationsOutline size="20" />
+                <IoMdNotificationsOutline size="25" />
                 <HStack>
                     <Image
                         borderRadius='full'
